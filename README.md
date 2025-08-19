@@ -6,8 +6,8 @@ This project demonstrates the generation and visualization of Erdős-Rényi rand
 
 Objectives
 
-Generate random graphs: Create two Erdős-Rényi random graphs with different edge creation probabilities.
-Visualize the graphs: Use Matplotlib to plot the graphs, ensuring clarity in node sizes, edge thicknesses, and labels.
+Generate random graphs: I Created two Erdős-Rényi random graphs with different edge creation probabilities.
+Visualize the graphs: I Use Matplotlib to plot the graphs, ensuring clarity in node sizes, edge thicknesses, and labels.
 Implementation Steps
 
 Define the Function: A function generate_er_network(n, p) is created to generate an Erdős-Rényi random graph with n nodes and an edge creation probability p.
